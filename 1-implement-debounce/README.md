@@ -25,6 +25,8 @@ Function is called.
 
 This is how the debounce function will operate.  
 
+# Problem Statement
+
 Given a function fn, and a time 't' seconds, write a debounced function.  
 Debounced function will return a function which will call the function in debounced manner using 't' seconds.  
 
